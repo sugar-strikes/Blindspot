@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Blindspot",
+    "version": "1.0.0",
+    "permissions": ["storage"],
+    "description": "Hides video progress and timestamps to help u stay focused.",
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://www.youtube.com/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
+
