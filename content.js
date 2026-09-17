@@ -4,10 +4,6 @@ console.log("Blindspot is running!");
 const videos = document.querySelectorAll("video");
 
 
-console.log(videos);
-console.log("Number of videos:", videos.length);
-console.log("First video:", videos[0]);
-
 // Find YouTube's progress bar and timestamp elements.
 
 const progressBar = document.querySelector(".ytp-progress-bar-container");
