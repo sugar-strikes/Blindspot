@@ -29,7 +29,16 @@ Usage
 2. Open the Blindspot extension.
 3. Turn **Hide Progress Bar** and/or **Hide Timestamp** on.
 4. Turn them off whenever the information is needed again.
-5. Incase the features don't work, simply turning them on and off once or twice will get it working.
+5. If the features don't work, simply turning them on and off once or twice will get them working.
+
+Images
+## Preview
+
+![Blindspot popup](images/popup.png)
+
+![Before](images/before.png)
+
+![After](images/after.png)
 
 About Me
 
